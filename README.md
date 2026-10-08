@@ -4,10 +4,12 @@
 
 Sharpa Robotics · Conference on Robot Learning (CoRL) 2026
 
+🏆 **CoRL 2026 Spotlight** (Top 4.4%)
+
 [![Website](https://img.shields.io/badge/Website-WM--Craftnet-blue)](https://wmcraftnet.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2609.07002-b31b1b)](https://arxiv.org/abs/2609.07002)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoint-SharpaIT%2FWM--Craftnet-FFD21E)](https://huggingface.co/SharpaIT/WM-Craftnet)
-[![CoRL 2026](https://img.shields.io/badge/CoRL-2026-7c3aed)](https://www.corl.org/)
+[![CoRL 2026 Spotlight](https://img.shields.io/badge/CoRL_2026-Spotlight-C9A227)](https://www.corl.org/)
 [![License](https://img.shields.io/badge/License-Apache--2.0-8b949e)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-SharpaWave-10b981)](https://www.sharpa.com/pages/wave)
 [![Simulator](https://img.shields.io/badge/Simulator-Isaac%20Gym-76b900)](https://developer.nvidia.com/isaac-gym)
