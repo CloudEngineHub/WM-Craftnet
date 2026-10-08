@@ -1,10 +1,24 @@
 # WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation
 
-**Jie Yin** · **Zeyuan Zhao** · **Xiaojing Tan** · **Yang Liu** · **Chiyu Wang** · **Xinyang Gu**
+<p align="center">
+  <a href="https://openreview.net/profile?id=~Jie_Yin4"><strong>Jie Yin</strong></a> ·
+  <a href="https://openreview.net/profile?id=~Zeyuan_Zhao3"><strong>Zeyuan Zhao</strong></a> ·
+  <a href="https://openreview.net/profile?id=~Xiaojing_Tan1"><strong>Xiaojing Tan</strong></a> ·
+  <a href="https://openreview.net/profile?id=~Yang_Liu268"><strong>Yang Liu</strong></a> ·
+  <a href="https://openreview.net/profile?id=~Chiyu_Wang3"><strong>Chiyu Wang</strong></a> ·
+  <a href="https://openreview.net/profile?id=~Xinyang_Gu1"><strong>Xinyang Gu</strong></a>
+</p>
 
-Sharpa Robotics · Conference on Robot Learning (CoRL) 2026
+<p align="center">
+  🏆 <strong>CoRL 2026 Spotlight</strong> (Top 4.4%)
+</p>
 
-🏆 **CoRL 2026 Spotlight** (Top 4.4%)
+<p align="center">
+  <a href="https://www.sharpa.com/">
+    <img src="docs/media/sharpa.svg" width="190" alt="Sharpa">
+  </a>
+</p>
+
 
 [![Website](https://img.shields.io/badge/Website-WM--Craftnet-blue)](https://wmcraftnet.github.io)
 [![arXiv](https://img.shields.io/badge/arXiv-2609.07002-b31b1b)](https://arxiv.org/abs/2609.07002)
