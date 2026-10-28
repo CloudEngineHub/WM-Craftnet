@@ -2,7 +2,7 @@
 # WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation
 
 <p align="center">
-  <a href="https://openreview.net/profile?id=~Jie_Yin4"><strong>Jie Yin</strong></a> ·
+  <a href="https://scholar.google.com/citations?user=Y8LVRYIAAAAJ&hl=en"><strong>Jie Yin</strong></a> ·
   <a href="https://openreview.net/profile?id=~Zeyuan_Zhao3"><strong>Zeyuan Zhao</strong></a> ·
   <a href="https://openreview.net/profile?id=~Xiaojing_Tan1"><strong>Xiaojing Tan</strong></a> ·
   <a href="https://openreview.net/profile?id=~Yang_Liu268"><strong>Yang Liu</strong></a> ·
